@@ -1,0 +1,1 @@
+exception handling occurs when an error is spotted in the area of handling. it executes code in the rescue keyword and continues execution.

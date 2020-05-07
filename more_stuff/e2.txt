@@ -1,0 +1,2 @@
+it will return an error since the block needs to be called
+the method returns a Proc object( block in variable form)

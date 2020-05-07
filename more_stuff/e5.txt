@@ -1,0 +1,2 @@
+there is no ampersand (&) in front of block to indicate that it is a block
+puts, therefore, returns nil, and there is an incorrect number of arguments (0) when 1 variable is required

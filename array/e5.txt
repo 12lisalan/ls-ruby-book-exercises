@@ -1,0 +1,9 @@
+a = e
+b = A
+c = error
+
+*if index is beyond length of string, nil is returned instead of error
+*notice the return values are of string instead of char(no char in ruby)
+
+*object - methods that make use of its receiver
+*kernal - method that don't modify receiver
